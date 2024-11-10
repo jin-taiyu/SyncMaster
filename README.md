@@ -1,4 +1,10 @@
-### 项目目录结构
+### SyncMaster
+
+[![Python application](https://github.com/jin-taiyu/SyncMaster/actions/workflows/python-app.yml/badge.svg)](https://github.com/jin-taiyu/SyncMaster/actions/workflows/python-app.yml)
+
+SyncMaster 是一个跨平台的文件同步工具，设计用于在本地存储与长期连接的外置存储系统之间实现高效、可靠的文件同步。项目专为多路径文件/文件夹对的同步需求而设计，支持检测并处理文件的增、删、改操作，确保两端数据的一致性，项目目前仍在开发阶段。
+
+#### 项目目录结构
 
 ```plaintext
 SyncMaster/
